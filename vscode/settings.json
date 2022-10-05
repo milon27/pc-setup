@@ -1,0 +1,67 @@
+{
+    "files.autoSave": "afterDelay",
+    "php.validate.executablePath": "D:/my_localhost/php/php.exe",
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.fontSize": 17,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.codeActionsOnSave": [
+        "source.addMissingImports"
+    ],
+    "editor.wordWrap": "on",
+    "files.autoSaveDelay": 5000,
+    "editor.fontFamily": "Consolas,monospaced,Courier New",
+    "editor.mouseWheelZoom": true,
+    "[json]": {},
+    "workbench.colorTheme": "Mariana Pro (Cool)",
+    "php.executablePath": "",
+    "[jsonc]": {},
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "workbench.iconTheme": "material-icon-theme",
+    "files.associations": {},
+    "editor.lineHeight": 27,
+    "editor.tabSize": 4,
+    "files.exclude": {
+        "**/node_modules/": false,
+        "**/package-lock.json": false
+    },
+    "launch": {
+        "configurations": [],
+        "compounds": []
+    },
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": true,
+    "editor.guides.bracketPairsHorizontal": false,
+    "editor.guides.highlightActiveBracketPair": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    "typescript.tsdk": "",
+    "terminal.integrated.env.windows": {},
+    "diffEditor.ignoreTrimWhitespace": false,
+    "emmet.excludeLanguages": [
+        "markdown"
+    ],
+    "emmet.includeLanguages": {
+        "html": "html",
+        "javascript": "javascriptreact"
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "terminal.integrated.rightClickBehavior": "default",
+    "terminal.integrated.tabs.enabled": true,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "terminal.integrated.profiles.windows": {
+        "C:\\Program Files\\Git\\bin\\bash.exe (migrated)": {
+            "path": "C:\\Program Files\\Git\\bin\\bash.exe",
+            "args": []
+        }
+    },
+    "terminal.integrated.fontSize": 16,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "terminal.explorerKind": "external",
+    "explorer.confirmDelete": false,
+    "remote.SSH.remotePlatform": {
+        "milon27.com": "linux"
+    },
+    "window.zoomLevel": -1,
+    "settingsSync.ignoredSettings": []
+}
